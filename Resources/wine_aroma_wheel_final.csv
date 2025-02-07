@@ -1,0 +1,32 @@
+﻿Category,Subcategory,Outer Ring Attributes
+Fruity White Wine,Citrus,"Lemon, Lime, Grapefruit"
+Fruity White Wine,White Berries,Gooseberry
+Fruity White Wine,Pome Fruits,"Pear, Apple, Green Apple"
+Fruity White Wine,Stone Fruits,Peach
+Fruity White Wine,Tropical Fruits,"Melon, Guava, Pineapple, Passion Fruit, Lychee"
+Fruity White Wine,Botrytized,"Dried Apricot, Orange Peel"
+Fruity Red Wine,Tropical Fruits,Banana
+Fruity Red Wine,Red Berries,"Raspberry, Blackcurrant, Strawberry, Blackberry"
+Fruity Red Wine,Stone Fruits,"Cherry, Plum"
+Fruity Red Wine,Fortified,Prune
+Floral,White Flowers,"Honeysuckle, Hawthorn, Orange Blossom, Linden, Jasmine, Acacia"
+Floral,Colored Flowers,"Rose, Lavender, Violet"
+Vegetal,Vegetables,"Capsicum, Fennel, Tomato, Green Bell Pepper"
+Vegetal,Fresh Herbs,"Cut Grass, Dill, Thyme, Fern, Mint, Rosemary, Sage, Basil"
+Vegetal,Dried Herbs,"Hay, Black Tea, Tobacco"
+Vegetal,Leaves,"Black Currant Leaf, Bay Leaf, Eucalyptus"
+Maturation in Oak Barrel,Woods,"Pine, Cedar, Sandalwood, Oak"
+Maturation in Oak Barrel,Nuts,"Almond, Hazelnut, Coconut, Walnut"
+Maturation in Oak Barrel,Spices,"Cloves, Nutmeg, Liquorice, Cinnamon, Pepper, Vanilla, Anise"
+Maturation in Oak Barrel,Toasted,"Tar, Smoke, Bacon, Coffee, Toast, Chocolate, Caramel, Brioche, Butterscotch, Charred, Roasted"
+Wine Faults,Brett,Horse Sweat
+Wine Faults,Sulfites,"Sweet Corn, Onion, Rubber"
+Wine Faults,Volatile Acidity,Nail Polish Remover
+Wine Faults,Heat,Madeira
+Wine Faults,Oxygen,Sherry
+Wine Faults,Cork Taint,Corked
+Mineral,Stony,"Flint, Wet Stone, Chalk, Slate, Gunflint, Crushed Rock"
+Earthy,Earth,"Mushroom, Forest Floor, Damp Earth, Truffle, Dusty, Loamy"
+Earthy,Animal,"Barnyard, Leather"
+Chemical,Reduction,"Petrol, Cabbage"
+Chemical,Chem,"Solvent, Acetone"
