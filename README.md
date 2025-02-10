@@ -95,6 +95,7 @@ Over 6 000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogs
   2. **Data Transforming** : the aroma chart was analysed and transformed to csv file DataFrame.
 
 ## Gardio Intuitive UI: 
+
 The app uses Gradio for creating an intuitive interface:
 
 * **Input**:
