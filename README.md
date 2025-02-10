@@ -5,7 +5,7 @@
 
 
 # Table of content
-1. [Introduction]()
+1. [Introduction](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/tree/main?tab=readme-ov-file#introduction)
 2. [Objective]()
 3. [Installation]()
 4. [Dataset]()
