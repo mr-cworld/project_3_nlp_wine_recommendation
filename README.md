@@ -47,10 +47,12 @@ pip install google-generativeai
 pip install langchain-google-genai
 ```
 ### Steps to run the program 
-1. Clone the repository. 
-git clone https://github.com/your-repo/wine-food-pairing.git
-2. Navigate to the project directory.
-3. Run the jupyter notebook file (with VS Code or colab).
+1. Clone the repository.
+```python
+git clone https://github.com/mr-cworld/project_3_nlp_wine_recommendation
+```
+3. Navigate to the project directory.
+4. Run the jupyter notebook file (with VS Code or colab).
 
 ## Dataset
 ### Portuguese Wine Reviews Dataset from "BlogOsVinhos"
