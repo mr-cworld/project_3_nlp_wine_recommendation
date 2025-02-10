@@ -54,8 +54,8 @@ git clone https://github.com/your-repo/wine-food-pairing.git
 
 ## Dataset
 ### Portuguese Wine Reviews Dataset from "BlogOsVinhos"
-1. Dataset description:
-   Over 6 000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogspot.com)
+1. **Dataset description**:
+Over 6 000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogspot.com)
 * Some columns may have its content in Portuguese.
 * Some wines are not from Portugal.
 * Price is measured in Euros (€)
@@ -63,46 +63,43 @@ git clone https://github.com/your-repo/wine-food-pairing.git
 * Rating goes from 0 to 20
 * Review Date is in the following format (Month/Year)
 
-2. Source : [open the link here](https://data.world/loliveira1999/portuguese-wine-dataset-from-blogosvinhos)
+2. **Source** : [open the link here](https://data.world/loliveira1999/portuguese-wine-dataset-from-blogosvinhos)
 
-3. Features: Some columns has Content in Portuguese
-   * Before cleaning :['name', 'region', 'year', 'color', 'castes','alcohol_percentage','winery', 'min_price', 'max_price','oenologist','Jreviw_rating','review_date', 'review_notes','wine_bottle_label','url','winecritic_notes','winecritic_rating']
+3. **Features**: Some columns has Content in Portuguese
+   * *Before cleaning* :['name', 'region', 'year', 'color', 'castes','alcohol_percentage','winery', 'min_price', 'max_price','oenologist','Jreviw_rating','review_date', 'review_notes','wine_bottle_label','url','winecritic_notes','winecritic_rating']
 
-   * After Cleaning : 
+   * *After Cleaning* : 
    ['Name', 'Region', 'Year', 'Color', 'Castes', 'Alcohol_Percentage',
        'Winery', 'Min_Price', 'Max_Price', 'Judge', 'Judge_Rating',
        'Review_Date', 'Review_Notes', 'Wine_Bottle_Label', 'URL']
 
 
-4. Size:
-   * Before the data cleaning and selection: 6,672 rows, 17 columns
-   * After the data cleaning and selection: 6348 rows × 15 columns 
+4. **Size**:
+   * *Before the data cleaning and selection*: 6,672 rows, 17 columns
+   * *After the data cleaning and selection*: 6348 rows × 15 columns 
 
-5. Data Cleaning:
+5. **Data Cleaning**:
    * Content in Portuguese were translated to English using NLP.
    * Duplicates and missing data were handled.
    * Droping rows with NAN values and also droping unnecessary columns.
    * Wine color, Aroma and  Flavor  columns were extracted and well classified for better filtering using spacy library.
 
-6. License: 
+6. **License**: 
    * Public Domain
   ### Wine Aroma Chart
-  1. Source : [open the link here](https://sl.bing.net/br4fRIfXsi)
-  2. Data Transforming : the aroma chart was analysed and transformed to csv file DataFrame.
+  1. **Source** : [open the link here](https://sl.bing.net/br4fRIfXsi)
+  2. **Data Transforming** : the aroma chart was analysed and transformed to csv file DataFrame.
 
 ## Gardio Intuitive UI: 
 The app uses Gradio for creating an intuitive interface:
 
-* Input:
+* **Input**:
 User selects preferences :Wine Color, Aroma Preference , Flavor Profile, Sweetness Level,Wine Body and price range.
-* Output:
-**Recommended wine**,**Attributes**, **Wine Description** , **Recommended Producers:** **food pairing** and **recipe**.
+* **Output**:
+Recommended wine, Attributes, Wine Description, Recommended Producers, Food Pairing and Recipe.
 
-* Gemini API:
-Used to analyze review notes for deeper insights and fallback recommendations.
-* Features:
-Google search links for recommended wines.
-Simple, real-time interface.
+* **Gemini API**:
+Used to analyze review notes for deeper insights and fallback recommendations. Google search links for recommended wines.
 
 ## Evaluation
 
