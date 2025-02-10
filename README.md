@@ -1,6 +1,6 @@
-# project_3_nlp_wine_recommendation
+# Project 3 : Wine Recommendation and Food Pairing App
 
-# AI bootcamp project 3 : Wine Recommendation and Food Pairing App
+
 ### select the perfect wine, paired with a meal and a recipe based on your taste preferences and expert reviews
 
 
@@ -29,6 +29,7 @@ The art of wine and food pairing enhances the culinary experience, yet selecting
 This project aims to build a recommendation system that simplifies the wine and food pairing process while enhancing the dining experience. The primary objective is to create a Gradio-based Wine Recommendation App that delivers personalized wine recommendations tailored to user preferences, including color, flavor, sensation, price range, and alcohol content. Additionally, the app provides curated meal suggestions paired with the selected wine and displays recipes to guide users in meal preparation. The technical implementation involves several key steps: data preprocessing to clean and translate wine reviews while structuring the dataset to include properties like color, flavor, and alcohol content; building recommendation logic to filter the dataset based on user input and leveraging the Gemini API for detailed reviews and fallback suggestions; developing an intuitive Gradio interface for input and output interactions; and deploying the app for local or server-based usage.
 
 ## Installation
+
 ### The requirement:
 To run this project you need to install python 3.8 or higher,also you need to instal the packages and libraries bellow:
 ```python
@@ -55,6 +56,7 @@ git clone https://github.com/mr-cworld/project_3_nlp_wine_recommendation
 4. Run the jupyter notebook file (with VS Code or colab).
 
 ## Dataset
+
 ### Portuguese Wine Reviews Dataset from "BlogOsVinhos"
 1. **Dataset description**:
 Over 6 000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogspot.com)
@@ -107,11 +109,12 @@ Used to analyze review notes for deeper insights and fallback recommendations. G
 
 
 ## Results:
+
 * Successfully recommended personalized wines for a diverse range of user inputs.
 * Paired meals complemented wine recommendations effectively.
 * Recipes added significant value, allowing users to create a complete dining experience.
 
 ## Obstacles and Future Work:
-* 
+
 Conclusion
 The Wine Recommendation and Food Pairing App bridges the gap between wine enthusiasts and culinary delights. By combining data science, AI, and an intuitive interface, this app enhances the dining experience for users worldwide. We look forward to future iterations that refine and expand its capabilities.
