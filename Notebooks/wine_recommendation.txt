@@ -1,82 +1,125 @@
 # Wine & Food Pairing Recommendation
 
 **Wine Recommendation:**  
-[**Key Details:**](https://www.google.com/search?q=Key+Details:)  
-**Recommendation:** **Kim Crawford Sauvignon Blanc Marlborough**
+[**Wine:** Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018**](https://www.google.com/search?q=Wine:**+Cantine+Barbera+d'Asti+Superiore+Nizza+"Bricco+Fiasco"+2018)  
+**Recommendation:**
+
+**Wine:** Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018
 
 **Key Details:**
 
-* Wine Color: White
-* Flavor Profile: Bright tropical fruits like passion fruit, pineapple, and mango
-* Aroma: Crisp Granny Smith apple, citrus zest, and floral notes
-* Sweetness Level: 7 (Semi-sweet)
-* Body: Light-bodied
-* Price Range: $15 - $30
+* **Color:** Ruby red
+* **Flavor Profile:** Citrus notes, particularly grapefruit and orange, with hints of red fruit
+* **Aroma:** Fragrant and fruity, with ripe red wine aromas such as plums and cherries
+* **Sweetness Level:** 7 out of 10
+* **Body:** Light-bodied
+* **Price Range:** $25 - $40
 
-This Sauvignon Blanc from New Zealand's celebrated Marlborough region perfectly matches the desired attributes. Its tropical fruit flavors, crisp acidity, light body, and affordability make it an excellent choice.
+**Description:**
+
+This light-bodied Barbera d'Asti from Piedmont, Italy, offers a unique blend of citrusy and fruity flavors. The wine's vibrant acidity and low tannins contribute to its freshness and easy-drinking nature. The aromas of ripe red fruits provide a pleasant balance to the citrus notes, creating a complex and enjoyable wine.
 
 <details>
   <summary><strong>Food Pairing Suggestion</strong></summary>
-  The bright acidity and citrus notes of Key Details Sauvignon Blanc pair well with grilled seafood dishes, such as salmon, sea bass, or shrimp scampi.
+  The Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018 pairs well with hearty dishes such as grilled steak, braised ribs, or mushroom risotto.
 </details>
 
 <details>
   <summary><strong>Recipe & Instructions</strong></summary>
-  ## Grilled Salmon with Lemon-Herb Butter
+  **Mushroom Risotto with Grilled Steak**
 
-This grilled salmon dish perfectly complements the bright acidity and citrus notes of Key Details Sauvignon Blanc. The lemony herb butter enhances the fish's flavor, creating a tantalizing culinary experience.
+**Pairs perfectly with:** The Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018
 
-### Ingredients:
+**Ingredients:**
 
-#### Salmon:
-- 4 salmon fillets (6 ounces each)
+**For the risotto:**
+- 1 cup Arborio rice
+- 2 cups vegetable broth
+- ½ cup white wine (optional)
+- ½ cup chopped onion
+- 2 cups chopped mushrooms (any variety)
+- ¼ cup chopped fresh parsley
+- 2 tablespoons grated Parmesan cheese
+- 1 tablespoon butter
+- Salt and pepper to taste
+
+**For the steak:**
+- 1 pound flank steak or skirt steak
+- 1 tablespoon olive oil
+- 1 teaspoon Worcestershire sauce
+- ½ teaspoon grated garlic
 - Salt and black pepper to taste
 
-#### Lemon-Herb Butter:
-- 1/2 cup (1 stick) unsalted butter, softened
-- 1 tablespoon lemon zest
-- 1 teaspoon dried thyme
-- 1/2 teaspoon dried rosemary
-- 1/4 teaspoon dried oregano
-- Salt and black pepper to taste
+**Instructions:**
 
-### Step-by-Step Cooking Instructions:
+**For the steak:**
 
-1. **Prepare the lemon-herb butter:** In a small bowl, combine the softened butter, lemon zest, thyme, rosemary, oregano, salt, and pepper. Mix until well combined and set aside.
-2. **Season the salmon:** Season the salmon fillets generously with salt and pepper on both sides.
-3. **Grill the salmon:** Preheat a grill to medium-high heat. Brush the grill grates with oil. Place the salmon fillets on the grill and cook for 3-4 minutes per side, or until cooked through to your desired level of doneness.
-4. **Top with lemon-herb butter:** Remove the salmon from the grill and immediately spread the lemon-herb butter evenly over the fillets.
-5. **Serve:** Garnish with fresh herbs, such as parsley or chives, and serve with your favorite sides.
+1. Combine olive oil, Worcestershire sauce, garlic, salt, and pepper in a small bowl to create a marinade.
+2. Brush the marinade over the steak and let it sit for at least 30 minutes or up to overnight.
+3. Heat a grill or grilling pan to medium-high heat.
+4. Grill the steak for 5-7 minutes per side for medium-rare, or until desired doneness is reached.
+5. Let the steak rest for 10 minutes before slicing against the grain.
 
-### Shopping List:
+**For the risotto:**
 
-- 4 salmon fillets (6 ounces each)
-- 1/2 cup unsalted butter
-- 1 lemon
-- 1 teaspoon dried thyme
-- 1/2 teaspoon dried rosemary
-- 1/4 teaspoon dried oregano
-- Salt and black pepper
-- Fresh herbs (optional) for garnish
+1. In a medium saucepan, melt the butter and sauté the onion until softened.
+2. Add the rice and stir to coat in the butter.
+3. Add the white wine (if using) and let it cook off before adding the vegetable broth.
+4. Simmer the risotto over low heat, stirring occasionally.
+5. Once the liquid has been absorbed, add the mushrooms and parsley and cook until the mushrooms are softened.
+6. Stir in the Parmesan cheese and butter.
+7. Season with salt and pepper to taste.
+
+**To serve:**
+
+1. Place the sliced steak on a plate and top with the mushroom risotto.
+2. Garnish with additional parsley, if desired.
+
+**Shopping List:**
+
+- Arborio rice
+- Vegetable broth
+- White wine (optional)
+- Onion
+- Mushrooms
+- Fresh parsley
+- Parmesan cheese
+- Butter
+- Salt and pepper
+- Flank steak or skirt steak
+- Olive oil
+- Worcestershire sauce
+- Garlic
 </details>
 
 <details>
   <summary><strong>Shopping/Ingredient List</strong></summary>
-  - - 4 salmon fillets (6 ounces each)
+  - - 1 cup Arborio rice
+- - 2 cups vegetable broth
+- - ½ cup white wine (optional)
+- - ½ cup chopped onion
+- - 2 cups chopped mushrooms (any variety)
+- - ¼ cup chopped fresh parsley
+- - 2 tablespoons grated Parmesan cheese
+- - 1 tablespoon butter
+- - Salt and pepper to taste
+- - 1 pound flank steak or skirt steak
+- - 1 tablespoon olive oil
+- - 1 teaspoon Worcestershire sauce
+- - ½ teaspoon grated garlic
 - - Salt and black pepper to taste
-- - 1/2 cup (1 stick) unsalted butter, softened
-- - 1 tablespoon lemon zest
-- - 1 teaspoon dried thyme
-- - 1/2 teaspoon dried rosemary
-- - 1/4 teaspoon dried oregano
-- - Salt and black pepper to taste
-- - 4 salmon fillets (6 ounces each)
-- - 1/2 cup unsalted butter
-- - 1 lemon
-- - 1 teaspoon dried thyme
-- - 1/2 teaspoon dried rosemary
-- - 1/4 teaspoon dried oregano
-- - Salt and black pepper
-- - Fresh herbs (optional) for garnish
+- - Arborio rice
+- - Vegetable broth
+- - White wine (optional)
+- - Onion
+- - Mushrooms
+- - Fresh parsley
+- - Parmesan cheese
+- - Butter
+- - Salt and pepper
+- - Flank steak or skirt steak
+- - Olive oil
+- - Worcestershire sauce
+- - Garlic
 
 </details>
