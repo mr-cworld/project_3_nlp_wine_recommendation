@@ -1,125 +1,92 @@
 # Wine & Food Pairing Recommendation
 
-**Wine Recommendation:**  
-[**Wine:** Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018**](https://www.google.com/search?q=Wine:**+Cantine+Barbera+d'Asti+Superiore+Nizza+"Bricco+Fiasco"+2018)  
-**Recommendation:**
+**Wine Recommendation:**
+[**Zinfandel**](https://www.google.com/search?q=Zinfandel)
+**Recommended Wine Pairing for BBQ Ribs:**
 
-**Wine:** Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018
+**Zinfandel**
+
+**Specific Wine Recommendation:**
+
+* **Ravenswood Zinfandel Vintner's Blend**
 
 **Key Details:**
 
-* **Color:** Ruby red
-* **Flavor Profile:** Citrus notes, particularly grapefruit and orange, with hints of red fruit
-* **Aroma:** Fragrant and fruity, with ripe red wine aromas such as plums and cherries
-* **Sweetness Level:** 7 out of 10
-* **Body:** Light-bodied
-* **Price Range:** $25 - $40
+* **Origin:** California, USA
+* **Varietal:** Zinfandel
+* **Alcohol Content:** 14.5% ABV
+* **Tasting Notes:** Bold and juicy flavors of ripe blackberries, black cherries, and spice. A hint of oak adds structure and complexity.
+* **Food Pairing:** Ideal companion for grilled and barbecued meats, especially those with a sweet and smoky glaze.
 
-**Description:**
+**Why Zinfandel is a Great Pairing:**
 
-This light-bodied Barbera d'Asti from Piedmont, Italy, offers a unique blend of citrusy and fruity flavors. The wine's vibrant acidity and low tannins contribute to its freshness and easy-drinking nature. The aromas of ripe red fruits provide a pleasant balance to the citrus notes, creating a complex and enjoyable wine.
+* Zinfandel's high acidity cuts through the richness of the ribs and cleanses the palate.
+* Its fruity and spicy notes complement the savory and smoky flavors of the barbecue sauce.
+* The moderate tannins in Zinfandel provide a balanced structure that supports the robust flavors of the meat.
+* The wine's juiciness enhances the overall mouthfeel of the meal.
 
 <details>
   <summary><strong>Food Pairing Suggestion</strong></summary>
-  The Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018 pairs well with hearty dishes such as grilled steak, braised ribs, or mushroom risotto.
+  Zinfandel pairs well with barbecue dishes, such as grilled meats, ribs, and spicy stews.
 </details>
 
 <details>
   <summary><strong>Recipe & Instructions</strong></summary>
-  **Mushroom Risotto with Grilled Steak**
+  **Zinfandel-Braised Short Ribs**
 
-**Pairs perfectly with:** The Cantine Barbera d'Asti Superiore Nizza "Bricco Fiasco" 2018
+This rich and flavorful dish is the perfect complement to a bold Zinfandel. The wine's fruity notes and spicy undertones pair beautifully with the tender beef and smoky barbecue sauce.
 
 **Ingredients:**
 
-**For the risotto:**
-- 1 cup Arborio rice
-- 2 cups vegetable broth
-- ½ cup white wine (optional)
-- ½ cup chopped onion
-- 2 cups chopped mushrooms (any variety)
-- ¼ cup chopped fresh parsley
-- 2 tablespoons grated Parmesan cheese
-- 1 tablespoon butter
-- Salt and pepper to taste
-
-**For the steak:**
-- 1 pound flank steak or skirt steak
-- 1 tablespoon olive oil
-- 1 teaspoon Worcestershire sauce
-- ½ teaspoon grated garlic
-- Salt and black pepper to taste
-
-**Instructions:**
-
-**For the steak:**
-
-1. Combine olive oil, Worcestershire sauce, garlic, salt, and pepper in a small bowl to create a marinade.
-2. Brush the marinade over the steak and let it sit for at least 30 minutes or up to overnight.
-3. Heat a grill or grilling pan to medium-high heat.
-4. Grill the steak for 5-7 minutes per side for medium-rare, or until desired doneness is reached.
-5. Let the steak rest for 10 minutes before slicing against the grain.
-
-**For the risotto:**
-
-1. In a medium saucepan, melt the butter and sauté the onion until softened.
-2. Add the rice and stir to coat in the butter.
-3. Add the white wine (if using) and let it cook off before adding the vegetable broth.
-4. Simmer the risotto over low heat, stirring occasionally.
-5. Once the liquid has been absorbed, add the mushrooms and parsley and cook until the mushrooms are softened.
-6. Stir in the Parmesan cheese and butter.
-7. Season with salt and pepper to taste.
-
-**To serve:**
-
-1. Place the sliced steak on a plate and top with the mushroom risotto.
-2. Garnish with additional parsley, if desired.
+* 4 pounds beef short ribs
+* 1 tablespoon olive oil
+* 1 large onion, chopped
+* 2 carrots, chopped
+* 2 celery stalks, chopped
+* 2 cups Zinfandel wine
+* 2 cups beef broth
+* 1 cup barbecue sauce
+* 1 tablespoon Worcestershire sauce
+* 1 tablespoon brown sugar
+* 1 teaspoon smoked paprika
+* 1 teaspoon dried oregano
+* 1 teaspoon dried thyme
+* Salt and pepper to taste
 
 **Shopping List:**
 
-- Arborio rice
-- Vegetable broth
-- White wine (optional)
-- Onion
-- Mushrooms
-- Fresh parsley
-- Parmesan cheese
-- Butter
-- Salt and pepper
-- Flank steak or skirt steak
-- Olive oil
-- Worcestershire sauce
-- Garlic
+* Beef short ribs
+* Olive oil
+* Onion
+* Carrots
+* Celery
+* Zinfandel wine
+* Beef broth
+* Barbecue sauce
+* Worcestershire sauce
+* Brown sugar
+* Smoked paprika
+* Dried oregano
+* Dried thyme
+* Salt
+* Pepper
+
+**Cooking Instructions:**
+
+1. Preheat oven to 325°F (163°C).
+2. In a large Dutch oven or oven-safe pot, heat olive oil over medium heat.
+3. Season short ribs with salt and pepper and brown on all sides.
+4. Remove short ribs from pot and add onion, carrots, and celery. Cook until softened, about 5 minutes.
+5. Pour in Zinfandel wine and bring to a boil. Reduce heat and simmer until the wine is reduced by half, about 10 minutes.
+6. Add beef broth, barbecue sauce, Worcestershire sauce, brown sugar, smoked paprika, oregano, thyme, and season with additional salt and pepper to taste.
+7. Return short ribs to the pot and nestle them in the sauce.
+8. Cover and braise in the preheated oven for 2-3 hours, or until the meat is fall-off-the-bone tender.
+9. Serve the short ribs over mashed potatoes or rice, spooning the braising liquid over the top.
+
+Enjoy this delicious Zinfandel-Braised Short Ribs with a glass of your favorite Zinfandel!
 </details>
 
 <details>
   <summary><strong>Shopping/Ingredient List</strong></summary>
-  - - 1 cup Arborio rice
-- - 2 cups vegetable broth
-- - ½ cup white wine (optional)
-- - ½ cup chopped onion
-- - 2 cups chopped mushrooms (any variety)
-- - ¼ cup chopped fresh parsley
-- - 2 tablespoons grated Parmesan cheese
-- - 1 tablespoon butter
-- - Salt and pepper to taste
-- - 1 pound flank steak or skirt steak
-- - 1 tablespoon olive oil
-- - 1 teaspoon Worcestershire sauce
-- - ½ teaspoon grated garlic
-- - Salt and black pepper to taste
-- - Arborio rice
-- - Vegetable broth
-- - White wine (optional)
-- - Onion
-- - Mushrooms
-- - Fresh parsley
-- - Parmesan cheese
-- - Butter
-- - Salt and pepper
-- - Flank steak or skirt steak
-- - Olive oil
-- - Worcestershire sauce
-- - Garlic
-
+  
 </details>
