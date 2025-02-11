@@ -1,7 +1,7 @@
 # Project 3 : Wine Recommendation and Food Pairing App
 
 
-### select the perfect wine, paired with a meal and a recipe based on your taste preferences and expert reviews
+### Select the perfect wine, paired with a meal and a recipe based on your taste preferences and expert reviews
 
 
 # Table of content
