@@ -117,5 +117,17 @@ Used to analyze review notes for deeper insights and fallback recommendations. G
 
 ## Obstacles and Future Work:
 
+### **Problems Encountered**
+* Finding the best dataset that contains both wine characteristics and food pairings.
+* Balancing rule-based recommendations with potential machine learning approaches (i.e., should we use collaborative filtering or a predefined expert-driven approach?).
+* Developing an intuitive UI that effectively presents recommendations without overwhelming users.
+* Data availability for food pairings and comprehensive wine details.
+
+### **Future Considerations**
+   The Wine Recommendation and Food Pairing App bridges the gap between wine enthusiasts and culinary delights. By combining data science, AI, and an intuitive interface, this app enhances the dining experience for users worldwide. We look forward to future iterations that refine and expand its capabilities.
+* Amending the wine list and notes
+* Saving of user wine preferences for repeat users
+* Rate wines to refine future recommendations
+
 Conclusion
 The Wine Recommendation and Food Pairing App bridges the gap between wine enthusiasts and culinary delights. By combining data science, AI, and an intuitive interface, this app enhances the dining experience for users worldwide. We look forward to future iterations that refine and expand its capabilities.
