@@ -1,7 +1,7 @@
-# Project 3 : Wine Recommendation and Food Pairing App
+# Project 3 : Wine Recommendation and Food Pairing System
 
 
-### select the perfect wine, paired with a meal and a recipe based on your taste preferences and expert reviews
+### Select the perfect wine, paired with a meal and a recipe based on your taste preferences and expert reviews
 
 
 # Table of content
@@ -19,7 +19,7 @@
 7. [Results](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/tree/main?tab=readme-ov-file#results)
 8. [Obstacles and Future Work](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/tree/main?tab=readme-ov-file#obstacles-and-future-work)
 * [Problems Encountered](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/blob/main/README.md#problems-encountered)
-* [Future Considerations](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/blob/main/README.md#problems-encountered)
+* [Future Considerations](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/blob/main/README.md#future-considerations)
 
 
 ## Introduction
