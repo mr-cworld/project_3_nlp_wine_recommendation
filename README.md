@@ -67,7 +67,7 @@ git clone https://github.com/mr-cworld/project_3_nlp_wine_recommendation
 
 ### Portuguese Wine Reviews Dataset from "BlogOsVinhos"
 1. **Dataset description**:
-Over 6 000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogspot.com)
+Over 6,000 Wine Reviews extracted from  [Blog "OsVinhos"](https://osvinhos.blogspot.com)
 * Some columns may have its content in Portuguese.
 * Some wines are not from Portugal.
 * Price is measured in Euros (€)
