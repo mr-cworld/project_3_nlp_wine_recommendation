@@ -20,7 +20,7 @@
 8. [Obstacles and Future Work](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/tree/main?tab=readme-ov-file#obstacles-and-future-work)
 * [Problems Encountered](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/blob/main/README.md#problems-encountered)
 * [Future Considerations](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/blob/main/README.md#future-considerations)
-
+9. [Conclusion](https://github.com/mr-cworld/project_3_nlp_wine_recommendation/tree/main?tab=readme-ov-file#Conclusion)
 
 ## Introduction
 
@@ -35,10 +35,16 @@ This project aims to build a recommendation system that simplifies the wine and 
 ### The requirement:
 To run this project you need to install python 3.8 or higher,also you need to instal the packages and libraries bellow:
 ```python
+pip install --upgrade python
+```
+```python
 pip install pandas
 ```
 ```python
 pip install spacy googletrans
+```
+```python
+pip install python-dotenv
 ```
 ```python
 pip install gradio requests gemini-api
@@ -108,9 +114,6 @@ Recommended wine, Attributes, Wine Description, Recommended Producers, Food Pair
 * **Gemini API**:
 Used to analyze review notes for deeper insights and fallback recommendations. Google search links for recommended wines.
 
-## Evaluation
-
-
 ## Results:
 
 * Successfully recommended personalized wines for a diverse range of user inputs.
@@ -131,5 +134,5 @@ Used to analyze review notes for deeper insights and fallback recommendations. G
 * Saving of user wine preferences for repeat users
 * Rate wines to refine future recommendations
 
-Conclusion
+## Conclusion
 The Wine Recommendation and Food Pairing App bridges the gap between wine enthusiasts and culinary delights. By combining data science, AI, and an intuitive interface, this app enhances the dining experience for users worldwide. We look forward to future iterations that refine and expand its capabilities.
