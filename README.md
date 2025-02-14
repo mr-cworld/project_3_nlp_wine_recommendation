@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 3 : Wine Recommendation and Food Pairing System
 
 
@@ -136,3 +137,8 @@ Used to analyze review notes for deeper insights and fallback recommendations. G
 
 ## Conclusion
 The Wine Recommendation and Food Pairing App bridges the gap between wine enthusiasts and culinary delights. By combining data science, AI, and an intuitive interface, this app enhances the dining experience for users worldwide. We look forward to future iterations that refine and expand its capabilities.
+=======
+# project_3_nlp_wine_recommendation
+Test
+File 1 - Data Extraction (Data to English) - take the porteguese raw data and convert the text to english for NLP processing
+>>>>>>> ecf49ce2730700ed7a231be3af109e07c78e7062
